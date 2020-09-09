@@ -60,3 +60,4 @@ https://github.com/django-ckeditor/django-ckeditor
 
 ![](./docs/ckeditor_full.png)
 "# Car-Admin" 
+"# CarAdministration" 
